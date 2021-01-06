@@ -107,10 +107,8 @@ img{
 .header{
 	background: green;
 }
-h1.logo{
-	font-weight: 300;
-	color: #B8860B;
-	letter-spacing: -2px;
+.logo{
+	
 }
 .conteudo-extra{
 	color: white;
