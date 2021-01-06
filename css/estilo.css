@@ -1,9 +1,9 @@
 body{
 	font-family: 'Roboto', sans-serif;
-	background-color: green;
+	background-image: linear-gradient(white, green) ;
 }
 a:link, a:active, a:visited{
-	color: white;
+	color: #7FFF00;
 	text-decoration: none;
 	padding:20px;
 	font-size: 18px;
